@@ -1,0 +1,17 @@
+/* font-family: 'Lobster', cursive;
+font-family: 'Open Sans', sans-serif; */
+
+h1 {
+    font-family: 'Lobster', cursive;
+}
+
+.parallax {
+    background-attachment: fixed;
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+body {
+    font-family: 'Open Sans', sans-serif;
+}
